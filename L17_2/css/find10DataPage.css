@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+title{
+    font-size:2em;
+}
+body{
+    padding:1em;
+    text-align:center;
+    margin:auto;
+}
+
+.main{
+    margin:auto;
+}
+.row{
+    text-align: center;
+    padding:0.5em;
+}
+
+.row p{
+    text-align: left;
+}
